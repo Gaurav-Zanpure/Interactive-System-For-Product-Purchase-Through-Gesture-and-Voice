@@ -1,0 +1,7 @@
+pip install speechrecognition
+pip install pyttsx3
+pip install pyaudio
+pip install opencv-python
+pip install keras
+pip install tensorflow
+pip install mysql-connector
